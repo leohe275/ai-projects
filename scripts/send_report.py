@@ -10,9 +10,7 @@ import sys
 from datetime import datetime
 
 # 飞书配置
-APP_ID = "cli_aa8ec1c206f89cc7"
-APP_SECRET = "xsOml10gX1W3Lcn4E0r6tl6qCqKtJysi"
-CHAT_ID = "oc_43f017d2dd025b2fa6dc3633f07ab788"
+
 
 # MiniMax M2.5 价格
 INPUT_PRICE_PER_MILLION = 1.95  # 元/百万Token
