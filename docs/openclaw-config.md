@@ -2,9 +2,7 @@
 
 ## 基本信息
 - **应用名称**: OpenClaw (AI规划引擎)
-- **App ID**: cli_aa8ec1c206f89cc7
-- **App Secret**: xsOml10gX1W3Lcn4E0r6tl6qCqKtJysi
-
+-
 ## 飞书群配置
 - **群聊名称**: AI工作群
 - **群聊 ID**: oc_43f017d2dd025b2fa6dc3633f07ab788
@@ -30,8 +28,6 @@
 ## 环境变量
 | 变量名 | 值 |
 |--------|-----|
-| FEISHU_APP_ID | cli_aa8ec1c206f89cc7 |
-| FEISHU_CHAT_ID | oc_43f017d2dd025b2fa6dc3633f07ab788 |
 
 ## 状态
 - ✅ 已接入飞书群
