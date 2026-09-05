@@ -7,13 +7,7 @@ import subprocess
 import re
 import uuid
 
-FEISHU_APP_ID = "cli_aa9aaaa1b07adcd7"
-FEISHU_APP_SECRET="xeqqHL5rbstAsvDSw74Anf8Ll6hDdG8B"
-CHAT_ID = "oc_43f017d2dd025b2fa6dc3633f07ab788"
-OPENCLAW_APP_ID = "cli_aa9aa99d997a1ccd"
-API_KEY="sk-d290ae08640740c387c441893393321f"
-API_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1"
-MODEL = "MiniMax-M2.5"
+
 
 SYSTEM_PROMPT = "你是 Hermes Agent，AI协作系统的执行引擎。你是 OpenClaw 的下属，职责是执行 OpenClaw 派发的技术任务并汇报结果。汇报格式：【执行结果】- 命令: xxx - 状态: 成功/失败 - 输出: xxx - 总结: xxx。保持简洁务实。"
 
